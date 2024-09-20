@@ -24,16 +24,22 @@ J'ai effectué une restructuration complète de la console Workspace ONE UEM, in
   - Reconfiguration des groupes d'assignation pour aligner les profi ls de dispositifs avec les 
     nouvelles structures OG et sous-OG.
     
-Déploiement et Gestion des Profi ls :
-Redéfi nition et réassignation des profi ls pour assurer une conformité et une sécuritéoptimales des dispositifs, en accord avec la nouvelle structure organisationnelle.
-Création du DAT (Document d'Architecture Technique) :
-Élaboration du DAT pour documenter la nouvelle architecture technique et les modifi cationsapportées.
-Création du DEX (Document d'Exploitation) :
-Élaboration du DEX pour fournir des instructions détaillées sur l'exploitation et la gestionquotidienne de la console restructurée.
-Intégration MTD/MES Lookout sur Workspace One UEM (RUN-BUILD)
-2023
-Mobiapps (Compte Intessa San Paolux)
-Neuilly
+  - Déploiement et Gestion des Profils :
+    
+    - Redéfinition et réassignation des profi ls pour assurer une conformité et une   
+      sécuritéoptimales des dispositifs, en accord avec la nouvelle structure organisationnelle.
+      
+  - Création du DAT (Document d'Architecture Technique) :
+    
+  - Élaboration du DAT pour documenter la nouvelle architecture technique et les modifications       apportées.
+    
+  - Création du DEX (Document d'Exploitation) :
+      - Élaboration du DEX pour fournir des instructions détaillées sur l'exploitation et la 
+        gestion quotidienne de la console restructurée.
+
+
+# Intégration MTD/MES Lookout sur Workspace One UEM (RUN-BUILD) Intessa San Paolux
+
 J'ai effectué une mise en oeuvre complète de la solution MTD (Mobile Threat Defense) / MES(Mobile Endpoint Security), intégrant les éléments suivants :
 Présentation du POC (Proof of Concept) :
 Présentation et démonstration du POC pour valider les fonctionnalités et les bénéfi cesde la solution auprès des parties prenantes.
