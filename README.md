@@ -1,20 +1,29 @@
 # Projets réalisés 
 Restructuration architecture Workspace One UEM (BUILD)
-Depuis
-2024
-Transavia
-Orly
+# Transavia Orly
 J'ai effectué une restructuration complète de la console Workspace ONE UEM, incluant leséléments suivants :
-Analyse de l'Existant :
-Évaluation détaillée de la structure actuelle de la console, identifi cation des ineffi cacités etdes points d'amélioration.
-Planifi cation du Projet :
-Élaboration d'un plan de projet détaillé, incluant les phases de mise en oeuvre, les délais etles ressources nécessaires.
-Organisation des OG (Organizational Groups) :
-Réorganisation des OG pour refl éter la structure actuelle de l'entreprise, facilitant unegestion plus effi cace des dispositifs.
-Création et Réorganisation des Sous-OG :
-Mise en place de sous-groupes organisationnels (sous-OG) pour une segmentation plus fi neet une meilleure allocation des ressources.
-Gestion des Groupes d'Assignation (Assignment Groups) :
-Reconfi guration des groupes d'assignation pour aligner les profi ls de dispositifs avec lesnouvelles structures OG et sous-OG.
+- Analyse de l'Existant :
+  - Évaluation détaillée de la structure actuelle de la console, identifi cation des ineffi 
+    cacités etdes points d'amélioration.
+
+- Planifi cation du Projet :
+  - Élaboration d'un plan de projet détaillé, incluant les phases de mise en oeuvre, les délais 
+    et les ressources nécessaires.
+
+- Organisation des OG (Organizational Groups) :
+  - Réorganisation des OG pour refl éter la structure actuelle de l'entreprise, facilitant une 
+    gestion plus effi cace des dispositifs.
+  
+- Création et Réorganisation des Sous-OG :
+
+    - Mise en place de sous-groupes organisationnels (sous-OG) pour une segmentation plus fi ne 
+      et une meilleure allocation des ressources.
+      
+- Gestion des Groupes d'Assignation (Assignment Groups) :
+  
+  - Reconfiguration des groupes d'assignation pour aligner les profi ls de dispositifs avec les 
+    nouvelles structures OG et sous-OG.
+    
 Déploiement et Gestion des Profi ls :
 Redéfi nition et réassignation des profi ls pour assurer une conformité et une sécuritéoptimales des dispositifs, en accord avec la nouvelle structure organisationnelle.
 Création du DAT (Document d'Architecture Technique) :
@@ -41,17 +50,8 @@ Mise en place de stratégies de conduite du changement pour assurer une adoption
 Formation des Futurs Administrateurs Lookout :
 Formation complète des administrateurs sur l'utilisation et la gestion de la solutionLookout pour garantir une administration effi cace et autonome.
 Projet réalisé
-Compétences
-Jamf
-Intune
-Active directory
-Jira
-Suite O365
-Lookout MTD/MES
-Workspace One UEM
-Gestion de fl otte mobile
-Intégration MTD/MES Lookout sur Intune (RUN-BUILD)
-2023
+
+
 Pileje
 Neuilly-Sur-Seine
 J'ai effectué une mise en oeuvre complète de la solution MTD (Mobile Threat Defense) / MES(Mobile Endpoint Security), intégrant les éléments suivants :
